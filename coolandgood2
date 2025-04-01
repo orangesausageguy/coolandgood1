@@ -63,7 +63,4 @@ at root
     --[no-]bundle-uri <uri>
                           a URI for downloading bundles before fetching from ori
 gin remote
-
-
-ewb62@DESKTOP-EWB MINGW64 ~
 $ ^C
